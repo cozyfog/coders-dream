@@ -1,0 +1,32 @@
+{
+    "TITLE" : "coders dream",
+    "ICON"  : "src/icon.ico",
+
+    "WINDOW-SIZE": [1280, 720],
+    "FULLSCREEN" : false,
+    "SCALED"     : false,
+    "RESIZABLE"  : [true, true],
+
+    "font-family": "Lucida Console",
+    "font-size"  : 12,
+    "font-weight": "normal",
+
+    "indentation": 2,
+
+    "save": "<Control-s>",
+    "open": "<Control-o>",
+    "run" : "<Control-b>",
+
+    "BACKGROUND"  : "#201714",
+    "SIDEBAR"  : "#1d1410",
+
+    "STANDARD"    : "#ffffff",
+    "COMMENT"     : "#8f8f8f",
+    "TYPES"       : "#4a5d00",
+    "BUILTIN"     : "#7acbdc",
+    "STRING"      : "#b1dc7a",
+    "DEFINITION"  : "#ffffff",
+    "DOCSTRING"   : "#2def43",
+    "KEYWORD"     : "#dccb7a",
+    "CLASSDEF"    : "#ffffff"
+}
