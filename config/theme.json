@@ -7,11 +7,9 @@
     "SCALED"     : false,
     "RESIZABLE"  : [true, true],
 
-    "font-family": "Fira Code",
+    "font-family": "Lucida Console",
     "font-size"  : 12,
-    "font-weight": "bold",
-
-    "command": "py __file__",
+    "font-weight": "normal",
 
     "indentation": 2,
 
@@ -28,6 +26,7 @@
     "BUILTIN"     : "#7acbdc",
     "STRING"      : "#b1dc7a",
     "DEFINITION"  : "#ffffff",
+    "DOCSTRING"   : "#2def43",
     "KEYWORD"     : "#dccb7a",
     "CLASSDEF"    : "#ffffff"
 }
