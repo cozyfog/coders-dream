@@ -19,15 +19,15 @@
     "open": "<Control-o>",
     "run" : "<Control-b>",
 
-    "BACKGROUND"  : "#201714",
-    "SIDEBAR"  : "#1d1410",
+    "BACKGROUND"  : "#242424",
+    "SIDEBAR"  : "#1d1d1d",
 
-    "STANDARD"    : "#ffffff",
-    "COMMENT"     : "#8f8f8f",
-    "TYPES"       : "#4a5d00",
-    "BUILTIN"     : "#7acbdc",
-    "STRING"      : "#b1dc7a",
-    "DEFINITION"  : "#ffffff",
-    "KEYWORD"     : "#dccb7a",
-    "CLASSDEF"    : "#ffffff"
+    "STANDARD"    : "#f6f3e8",
+    "COMMENT"     : "#424242",
+    "TYPES"       : "#e65c00",
+    "BUILTIN"     : "#8ac6f2",
+    "STRING"      : "#98c379",
+    "DEFINITION"  : "#cc99cc",
+    "KEYWORD"     : "#e65c00",
+    "CLASSDEF"    : "#cc99cc"
 }
