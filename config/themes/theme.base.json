@@ -11,6 +11,8 @@
     "font-size"  : 12,
     "font-weight": "normal",
 
+    "command": "py __file__",
+
     "indentation": 2,
 
     "save": "<Control-s>",

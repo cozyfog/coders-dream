@@ -43,6 +43,7 @@ def read(b,argc=None):
         file = filedialog.askopenfilename(initialdir=os.curdir, title="Select a File")
     else:
         file = argc
+    curr = file
     #########
     entering(file)
     #########
@@ -53,7 +54,6 @@ def read(b,argc=None):
             text.insert('end', code[:-1])
             return
         text.insert('end', code)
-    curr = file
 
 root = Tk()
 root.geometry(f'{int(json["WINDOW-SIZE"][0])}x{int(json["WINDOW-SIZE"][1])}')
@@ -103,6 +103,7 @@ def select_file(b):
     try:
         os.listdir(i[1:][1:])
     except:
+        curr = i
         read(None, f'{file_}{i}')
 
 # key bindings
